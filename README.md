@@ -5,11 +5,10 @@ An interactive Rock Paper Scissors game built using **HTML, CSS, and JavaScript*
 ## 🚀 Features
 - Fully responsive and interactive UI 🎨
 - Randomized computer choices 🤖
-- Instant feedback with animations ⚡
 - Score tracking 📊
 
 ## 📸 Preview
-![Game Preview](https://your-image-link.com) *(Replace with a valid image link)*
+![Game Preview](https://github.com/kivolkar/Rock-Paper-Scissors-Game-Using-Javascript/Images/rock-paper-scissor.png)) 
 
 ## 🛠️ Technologies Used
 - **HTML** - Structure of the game
