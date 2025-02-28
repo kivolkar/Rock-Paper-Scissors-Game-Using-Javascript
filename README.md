@@ -8,7 +8,7 @@ An interactive Rock Paper Scissors game built using **HTML, CSS, and JavaScript*
 - Score tracking 📊
 
 ## 📸 Preview
-![Game Preview](https://github.com/kivolkar/Rock-Paper-Scissors-Game-Using-Javascript/Images/rock-paper-scissor.png)
+![Game Preview](Images/rock-paper-scissor.png)
 
 ## 🛠️ Technologies Used
 - **HTML** - Structure of the game
