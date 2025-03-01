@@ -32,7 +32,7 @@ An interactive Rock Paper Scissors game built using **HTML, CSS, and JavaScript*
 2. Open the `index.html` file in a browser.
 
 ## 🌟 Live Demo
-🔗 [Play the Game](https://your-live-demo-link.com) *(Replace with your deployed link)*
+🔗 [Play the Game][((https://kivolkar.github.io/Rock-Paper-Scissors-Game-Using-Javascript/)) 
 
 ## 🤝 Contributing
 Feel free to submit issues or pull requests to enhance the game.
